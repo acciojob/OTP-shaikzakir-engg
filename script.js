@@ -19,3 +19,4 @@ inputs.forEach((input, index) => {
     }
   });
 });
+document.getElementById("code-1").focus();
